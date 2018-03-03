@@ -5,7 +5,7 @@
 ### Download Links
 
 * **Jailbreak:** Add [https://apt.alfhaily.me](https://apt.alfhaily.me) to Cydia (Note the HTTPS in the url)
-* **Sideloading (No Jailbreak):** Download ipa file from [here](https://cercube.com/download?r=sideload) and follow the guide below
+* **Sideloading (No Jailbreak):** Download ipa file from [here](https://api.cercube.com/download?install=sideload) and follow the guide below
 
 
 
